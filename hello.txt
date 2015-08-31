@@ -1,2 +1,2 @@
 I'm learning Git, a free version control system.
-2015/08/31
+This is a Hello World file wrote on 2015/08/31.
