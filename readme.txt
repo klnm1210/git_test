@@ -1,2 +1,2 @@
 Read me file is now preparing...
-It may be distributed next week.
+It may be distributed next month.
